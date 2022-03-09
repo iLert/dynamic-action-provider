@@ -1,0 +1,16 @@
+{
+  "name": "dynamic-action-provider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Chris Froehlingsdorf <chris@ilert.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
