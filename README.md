@@ -18,3 +18,8 @@ e.g. `https://xxxx-xxx-xxx-xxx-xxx.ngrok.io/api/action-requests` and `https://xx
 ## More info
 
 Can be found in the [documentation](https://docs.ilert.com/rest-api/application-hooks/dynamic-alert-actions).
+
+## Disclaimer
+
+This sample also contains a demo for a super simple Ansible tower playbook trigger; please remember that this is a demo.
+Never run this in production without proper adjustments and needed changes for proper security e.g. adding authentication.
